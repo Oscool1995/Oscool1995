@@ -43,7 +43,7 @@
 ---
 
 ## Links
-- [**Contact**](oscar.garcia.arzu95@gmail.com)
+- [**Contact**](mailto:oscar.garcia.arzu95@gmail.com)
 
 <a href="https://www.linkedin.com/in/oscar-garcia-arzu-37173b261/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
